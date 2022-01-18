@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GeorgeKVR
 - 👀 I’m interested in Programming and IT in general
 - 🌱 I’m currently learning React
-- 📫 How to reach me: _george.kvrivi@gmail.com_  [Linkedin](https://www.linkedin.com/in/giorgi-kvrivishvili-5667321b4/)
+- 📫 How to reach me: _george.kvrivi@gmail.com_
 
 <!---
 GeorgeKVR/GeorgeKVR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
