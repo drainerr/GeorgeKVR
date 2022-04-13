@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GeorgeKVR
-- 👀 I’m interested in Programming and IT in general
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Software Development and Linux Administration
+- 🌱 I’m currently learning Redux
 - 📫 How to reach me: _george.kvrivi@gmail.com_
 
 <!---
