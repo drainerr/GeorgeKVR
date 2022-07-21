@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GeorgeKVR
-- 👀 I’m interested in Software Development and Linux Administration
-- 🌱 I’m currently learning Redux
+- 👋 Hi, I’m @drainerr
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning the integration of Firebase services 
 - 📫 How to reach me: _george.kvrivi@gmail.com_
 
 <!---
