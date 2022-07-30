@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @drainerr
-- 👀 I’m interested in Fullstack Development
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning NextJS
 - 📫 How to reach me: _george.kvrivi@gmail.com_
 
