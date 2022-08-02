@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drainerr
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently practicing every tool and technology related to React, I learned in the last months, including Hooks, React-Router, Context API, Styled Components, and third-party libraries. 
 - 📫 How to reach me: _george.kvrivi@gmail.com_
 
 <!---
